@@ -153,7 +153,7 @@ a{
     color: coral;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1300px) {
     .project-container{
         display: flex;
         flex-wrap:wrap ;
