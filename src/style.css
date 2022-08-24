@@ -36,7 +36,7 @@ li{
 }
 h1 {
     font-size: 90px;
-    margin: 0%;
+    margin-bottom: 0%;
 }
 
 h2{
@@ -84,7 +84,6 @@ p{
 .sub-section{
     display: flex;
     justify-content: space-around;
-    padding: 80px;
 }
 
 .head-shot{
@@ -162,7 +161,6 @@ a{
     .sub-section{
         display: flex;
         flex-direction: column-reverse;
-        padding: 80px;
     }
 
 }
@@ -176,8 +174,5 @@ a{
 }
 
 .information{
-    border: solid #6363ff4f;
-    border-radius: 15px;
     padding: 20px;
-    margin-right: 20px;
 }
