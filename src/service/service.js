@@ -61,6 +61,16 @@ var gProjects = [
         publishedAt: 1448693940000,
         labels: ["Matrixes", "keyboard events"],
     },
+    {
+        id: "bookStore",
+        name: "Book Store",
+        title: "Book manager",
+        desc: `Simple book store web service that allows user to
+         manage inventory of a book store. Book Store supports hebrew and english.`,
+        url: "https://alon-hoffman.github.io/Book-Store/?price=100&rating=0",
+        publishedAt: 1448693940000,
+        labels: ["Matrixes", "keyboard events"],
+    },
 ]
 
 function getProjects() {
