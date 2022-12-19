@@ -37,7 +37,7 @@ var gProjects = [
         title: "Stash all the packages",
         desc: `Amazon Crime was made as part of the Make Games JLM game jam in
         under 40 hours.`,
-        url: "https://alon-hoffman.github.io/touch-num/",
+        url: "https://kobikoala1.itch.io/amazon-crime",
         publishedAt: 1448693940000,
         labels: ["Matrixes", "keyboard events"],
     },
@@ -46,7 +46,7 @@ var gProjects = [
         name: "Touch Num",
         title: "How fast can you go?",
         desc: "A game about focus and speed",
-        url: "https://kobikoala1.itch.io/amazon-crime",
+        url: "https://alon-hoffman.github.io/touch-num/",
         publishedAt: 1448693940000,
         labels: ["Matrixes", "keyboard events"],
     },
@@ -68,6 +68,15 @@ var gProjects = [
         desc: `Simple book store web service that allows user to
          manage inventory of a book store. Book Store supports hebrew and english.`,
         url: "https://alon-hoffman.github.io/Book-Store/?price=100&rating=0",
+        publishedAt: 1448693940000,
+        labels: ["Matrixes", "keyboard events"],
+    },
+    
+        id: "mello",
+        name: "Mello",
+        title: "Project manager",
+        desc: `A trello clone created from scratch with Vue.js.`,
+        url: "https://melloapp.up.railway.app/#/board",
         publishedAt: 1448693940000,
         labels: ["Matrixes", "keyboard events"],
     },
