@@ -71,11 +71,11 @@ var gProjects = [
         publishedAt: 1448693940000,
         labels: ["Matrixes", "keyboard events"],
     },
-    
+    {
         id: "mello",
         name: "Mello",
         title: "Project manager",
-        desc: `A trello clone created from scratch with Vue.js.`,
+        desc: `A trello clone made from scratch using Vue.js.`,
         url: "https://melloapp.up.railway.app/#/board",
         publishedAt: 1448693940000,
         labels: ["Matrixes", "keyboard events"],

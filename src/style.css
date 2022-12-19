@@ -27,6 +27,9 @@ footer {
   color: white;
   text-align: center;
 }
+footer p{
+  margin-bottom: 0;
+}
 nav {
   display: flex;
   justify-content: space-between;
@@ -106,7 +109,8 @@ p {
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding: 80px;
+  align-items: center;
+  padding: 20px;
 }
 
 .project-card {
@@ -137,7 +141,7 @@ p {
 .project-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  /* justify-content: space-around; */
 }
 
 hr {
